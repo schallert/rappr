@@ -1,0 +1,5 @@
+.DS_Store
+
+*.boltdb
+
+/gin-bin
