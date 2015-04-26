@@ -19,8 +19,8 @@ type TwiML struct {
 }
 
 type Votes struct {
-	Derek uint
-	Jay   uint
+	Derek int
+	Jay   int
 }
 
 func mainHandler(w http.ResponseWriter, req *http.Request) {
