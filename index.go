@@ -4,7 +4,7 @@ const INDEX_HTML = `<!doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>DownCloud</title>
+  <title>Rappr</title>
 
   <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
 
